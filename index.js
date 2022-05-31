@@ -29,3 +29,5 @@ const addArrays = addNumbers(multiple(array1), multiple(array2));
 
 console.log(addArrays);
 
+// wait when did this break?
+console.log(addMultiple([1,1,1,1,1]));
