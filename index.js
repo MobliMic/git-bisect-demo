@@ -5,4 +5,4 @@ const addNumbers = (num1, num2) => {
 	return num1 + num2;
 }
 
-addNumbers(a,b);
+console.log(addNumbers(a,b));
