@@ -1,4 +1,8 @@
 const a = 1;
 const b = 2;
 
-console.log(a+b);
+const addNumbers = (num1, num2) => {
+	return num1 + num2;
+}
+
+addNumbers(a,b);
