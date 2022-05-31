@@ -29,5 +29,6 @@ const array2 = [1,1,1,1,1,1,1,1,1,1];
 const addArrays = addNumbers(multiple(array1), multiple(array2));
 
 console.log(addArrays);
-
+console.log(addArrays);
+console.log(addArrays);
 
