@@ -30,5 +30,4 @@ const addArrays = addNumbers(multiple(array1), multiple(array2));
 
 console.log(addArrays);
 console.log(addArrays);
-console.log(addArrays);
 
