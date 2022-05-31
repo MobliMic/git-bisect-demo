@@ -9,7 +9,7 @@ const addMultiple = (array) => {
 	return array.reduce(array);
 }
 
-const multipleNums = addMultiple([1,2,3,4,5,6,7,8,9]);
+//const multipleNums = addMultiple([1,2,3,4,5,6,7,8,9]);
 
-console.log(multipleNums);
+//console.log(multipleNums);
 console.log(addNumbers(a,b));
